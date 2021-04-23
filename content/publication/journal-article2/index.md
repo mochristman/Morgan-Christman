@@ -22,7 +22,8 @@ publication_types: ["2"]
 publication: "Journal of Insect Physiology"
 publication_short: "*Under Review*"
 
-abstract: 
+abstract: The use of commercialized bumble bee (Bombus) colonies is increasing throughout the U.S. In order to make Bombus colonies available to producers across the country, there is an opportunity to diversify the market with species that are endemic to the areas they are employed. 
+
 
 
 
