@@ -7,11 +7,11 @@ authors:
 - Lori R. Spears
 - Ricardo A. Ramirez
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- "Department of Biology, Utah State University, Logan, UT 84322, United States" "Ecology Center, Utah State University, Logan, UT 84322, United States" 
+- "Department of Biology, Utah State University, Logan, UT 84322, United States"
+- "USDA-ARS Pollinating Insect – Biology, Management, and Systematics Research Unit, Utah State University, Logan, UT 84322, United States"
+- "Department of Biology, Utah State University, Logan, UT 84322, United States"
+- "Department of Biology, Utah State University, Logan, UT 84322, United States" "Ecology Center, Utah State University, Logan, UT 84322, United States" 
 date: "2021-04-15T00:00:00Z"
 doi: ""
 
