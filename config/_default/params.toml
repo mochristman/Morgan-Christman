@@ -120,10 +120,10 @@ address = {city = "Logan", region = "UT", postcode = "84322", country = "United 
 ############################
 
 # Default image for social sharing and search engines. Place image in `static/media/` folder and specify image name here.
-sharing_image = ""
+#sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+#twitter = ""
 
 ############################
 ## Regional Settings
