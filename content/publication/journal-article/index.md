@@ -1,5 +1,5 @@
 ---
-title: Land-use and climate drive shifts in *Bombus* assemblage composition
+title: "Land-use and climate drive shifts in Bombus assemblage composition"
 authors:
 - Morgan E. Christman
 - Lori R. Spears
@@ -62,8 +62,5 @@ projects: []
 slides:
 ---
 
-#{{% callout note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /callout %}}
 
-Data and code supporting these findings can be are openly available on [Zenodo] (https://zenodo.org/record/4701633#.YIJOIH1ueWB).
+Data and code supporting these findings can be are openly available on [Zenodo](https://zenodo.org/record/4701633#.YIJOIH1ueWB).
