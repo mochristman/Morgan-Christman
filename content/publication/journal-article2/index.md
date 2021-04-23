@@ -22,7 +22,7 @@ publication_types: ["2"]
 publication: "Journal of Insect Physiology"
 publication_short: "*Under Review*"
 
-abstract: The use of commercialized bumble bee (Bombus) colonies is increasing throughout the U.S. In order to make Bombus colonies available to producers across the country, there is an opportunity to diversify the market with species that are endemic to the areas they are employed. Identifying species’ tolerance to environmental extremes can assist with the commercialization of colonies for specific cropping systems and geographic regions. Here, we compared the upper thermal tolerance of two endemic North American bumble bee species
+abstract: The use of commercialized bumble bee (Bombus) colonies is increasing throughout the U.S. In order to make Bombus colonies available to producers across the country, there is an opportunity to diversify the market with species that are endemic to the areas they are employed. Identifying species’ tolerance to environmental extremes can assist with the commercialization of colonies for specific cropping systems and geographic regions. Here, we compared the upper thermal tolerance of two endemic North American bumble bee species:
 
 
 # links:
