@@ -1,11 +1,10 @@
 ---
-title: "Land-use and climate drive shifts in Bombus assemblage composition"
+title: "Variation in upper thermal tolerance of Bombus griseocollis and B. impatiens (Hymenoptera: Apidae)"
 authors:
 - Morgan E. Christman
+- Cody L. Barnes
+- Jonathan B. Koch
 - Lori R. Spears
-- James P. Strange
-- William D. Pearse
-- Emily K. Burchfield
 - Ricardo A. Ramirez
 date: "2021-04-26T00:00:00Z"
 doi: ""
