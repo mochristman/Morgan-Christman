@@ -1,5 +1,5 @@
 ---
-title: "Land-use and climate drive shifts in *Bombus* assemblage composition"
+title: Land-use and climate drive shifts in *Bombus* assemblage composition
 authors:
 - Morgan E. Christman
 - Lori R. Spears
