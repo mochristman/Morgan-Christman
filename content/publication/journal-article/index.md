@@ -7,13 +7,6 @@ authors:
 - William D. Pearse
 - Emily K. Burchfield
 - Ricardo A. Ramirez
-author_notes:
-- "Department of Biology, Utah State University, Logan, UT 84322, USA" "Ecology Center, Utah State University, Logan, UT 84322, USA"
-- "Department of Biology, Utah State University, Logan, UT 84322, USA"
-- "Department of Entomology, Ohio State University, Columbus, OH 43210, USA"
-- "Department of Biology, Utah State University, Logan, UT 84322, USA" "Ecology Center, Utah State University, Logan, UT 84322, USA" "Department of Life Sciences, Imperial College London, Silwood Park Campus, Buckhurst Rd., Ascot, Berkshire, SL5 7PY UK"
-- "Department of Environmental Sciences, Emory University, Atlanta, GA 30322, USA"
-- "Department of Biology, Utah State University, Logan, UT 84322, USA" "Ecology Center, Utah State University, Logan, UT 84322, USA"
 date: "2021-04-26T00:00:00Z"
 doi: ""
 
