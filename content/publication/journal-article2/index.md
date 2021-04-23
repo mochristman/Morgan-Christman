@@ -1,5 +1,5 @@
 ---
-title: Variation in upper thermal tolerance of *Bombus griseocollis* and *B. impatiens* (Hymenoptera: Apidae)
+title: "Variation in upper thermal tolerance of Bombus griseocollis* and B. impatiens* (Hymenoptera: Apidae)"
 authors:
 - Morgan E. Christman
 - Cody L. Barnes
