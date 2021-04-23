@@ -4,5 +4,5 @@ view: 4
 
 header:
   caption: ""
-  image: ""
+  image: "bumbles.jpg"
 ---
