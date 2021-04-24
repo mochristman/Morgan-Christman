@@ -1,15 +1,15 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+#widget: blank
 
 # This file represents a page section.
-headless: true
+#headless: true
 
 # Order that this section appears on the page.
-weight: 20
+#weight: 20
 
-title:
+title: Contact
 subtitle:
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
@@ -17,7 +17,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: ""
 subtitle: ""
-hero_media: welcome.jpg
+hero_media: contact.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
