@@ -22,7 +22,7 @@ content:
 hero_media: contact.jpg
 design:
    #Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 advanced:
   css_style:
   css_class:
