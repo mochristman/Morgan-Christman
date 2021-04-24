@@ -19,7 +19,7 @@ title: ""
 subtitle: ""
 hero_media: contact.jpg
 design:
-   Choose how many columns the section has. Valid values: 1 or 2.
+   #Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 advanced:
   css_style:
