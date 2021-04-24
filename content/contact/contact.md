@@ -7,14 +7,14 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-#weight: 20
+weight: 20
 
-#title: Contact
-#subtitle:
+title: Contact
+subtitle:
 
-#content:
+content:
   #Automatically link email and phone or display as text?
-  #autolink: true
+  autolink: true
   
   # Email form provider
   #form:
@@ -33,9 +33,11 @@ subtitle: ""
 hero_media: contact.jpg
 content: 
   autolink: true
-
 design:
   columns: '2'
+advanced:
+  css_styles:
+  css_class:
 ---
 
 
