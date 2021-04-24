@@ -25,19 +25,19 @@ content:
       # Enable CAPTCHA challenge to reduce spam?
       #captcha: false
 
-widget: hero  # See https://wowchemy.com/docs/page-builder/
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: "Contact"
-subtitle: ""
-hero_media: contact.jpg
-content: 
-  autolink: true
-design:
-  columns: '2'
-advanced:
-  css_styles:
-  css_class:
+#widget: hero  # See https://wowchemy.com/docs/page-builder/
+#headless: true  # This file represents a page section.
+#weight: 20  # Order that this section will appear.
+#title: "Contact"
+#subtitle: ""
+#hero_media: contact.jpg
+#content: 
+  #autolink: true
+#design:
+  #columns: '2'
+#advanced:
+  #css_styles:
+  #css_class:
 ---
 
 
