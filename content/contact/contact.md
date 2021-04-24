@@ -27,9 +27,10 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 20  # Order that this section will appear.
+weight: 10  # Order that this section will appear.
 title: "Contact"
-subtitle: ""
+subtitle: 
+  autolink: true
 hero_media: contact.jpg
 content: 
   autolink: true
