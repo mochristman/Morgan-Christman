@@ -1,20 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: hero
-
-widget: hero  
-headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
-title: ""
-subtitle: ""
-hero_media: welcome.jpg
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
-advanced:
-  css_style:
-  css_class:
+widget: blank
 
 # Activate this widget? true/false
 active: true
