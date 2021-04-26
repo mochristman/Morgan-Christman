@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 10
 
 title: Contact
 subtitle:
@@ -16,16 +16,7 @@ content:
   #Automatically link email and phone or display as text?
   autolink: true
 design:
-  columns: 2
-  
-  # Email form provider
-  #form:
-    #provider: mochristman@gmail.com
-    #formspree:
-      #id:
-    #netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      #captcha: false
+  columns: 1
 
 ---
 
