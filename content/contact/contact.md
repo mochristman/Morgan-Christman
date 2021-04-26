@@ -11,15 +11,15 @@ subtitle:
 content:
   autolink: true
 design:
+  columns: 2
   background: 
     image: welcome.jpg
     image_darken: 0
     image_parallax: false
     image_position: right
-    image_size: actual
+    image_size: contain
     text_color_light: true
-  spacing:
-    padding: ["20px", "0", "20px", "0"]
+
 advanced:
   css_class: 
 
