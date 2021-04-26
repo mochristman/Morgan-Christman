@@ -16,7 +16,7 @@ content:
   #Automatically link email and phone or display as text?
   autolink: true
 design:
-  columns: 1
+  columns: 2
 
 widget: hero  
 headless: true  # This file represents a page section.
@@ -26,7 +26,7 @@ subtitle: ""
 hero_media: welcome.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 advanced:
   css_style:
   css_class:
