@@ -10,18 +10,6 @@ title: Contact
 subtitle:
 content:
   autolink: true
-design:
-  columns: 2
-  background: 
-    image: welcome.jpg
-    image_darken: 0
-    image_parallax: false
-    image_position: right
-    image_size: contain
-    text_color_light: true
-
-advanced:
-  css_class: 
 
 ---
 
