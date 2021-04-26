@@ -10,6 +10,9 @@ title: Contact
 subtitle:
 content:
   autolink: true
+design:
+  background: 
+    image: welcome.jpg
 
 ---
 
