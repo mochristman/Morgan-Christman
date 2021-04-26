@@ -19,7 +19,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["20px", "20px", "20px", "20px"]
+    padding: ["50px", "20px", "20px", "50px"]
 advanced:
   css_class: 
 
