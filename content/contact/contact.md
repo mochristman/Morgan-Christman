@@ -16,10 +16,10 @@ design:
     image_darken: 0
     image_parallax: false
     image_position: right
-    image_size: cover
+    image_size: actual
     text_color_light: true
   spacing:
-    padding: ["50px", "20px", "20px", "50px"]
+    padding: ["20px", "0", "20px", "0"]
 advanced:
   css_class: 
 
