@@ -6,35 +6,35 @@ title: Morgan (Mo) Christman
 superuser: true
 
 # Role/position
-#role: PhD Candidate at Utah State University and National Science Foundation Climate Adaptation Science Trainee
+role: PhD Candidate at Utah State University and National Science Foundation Climate Adaptation Science Trainee
 
 # Organizations/Affiliations
-#organizations:
-- #name: Utah State University Biology Department
-  #url: ""
+organizations:
+- name: Utah State University Biology Department
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-- #Landscape Ecology
-- #Pollinator Ecology
+interests:
+- Landscape Ecology
+- Pollinator Ecology
 - #Machine Learning
 - #Geospatial Modeling 
 - #Conservation 
 - #Climate Adaptation
 
-#education:
-  #courses:
-  - #course: PhD Candidate in Ecology
-    #institution: Stanford University
-    #year: 2017-22 (Anticipated)
-  - #course: BS in Biology
-    #institution: Denison University
-    #year: 2013-17
-  - #course: BA in Environmental Studies
-    #institution: Denison University
-    #year: 20013-17
+education:
+  courses:
+  - course: PhD Candidate in Ecology
+    institution: Stanford University
+    year: 2022
+  - course: BS in Biology
+    institution: Denison University
+    year: 2017
+  - course: BA in Environmental Studies
+    institution: Denison University
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
