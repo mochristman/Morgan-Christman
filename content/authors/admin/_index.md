@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Morgan (Mo) Christman
+subtitle: About Me
 
 # Is this the primary user of the site?
 superuser: true
