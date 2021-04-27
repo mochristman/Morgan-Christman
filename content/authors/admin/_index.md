@@ -1,9 +1,9 @@
 ---
 # Display name
-#title: Morgan (Mo) Christman
+title: Morgan (Mo) Christman
 
 # Is this the primary user of the site?
-#superuser: true
+superuser: true
 
 # Role/position
 #role: PhD Candidate at Utah State University and National Science Foundation Climate Adaptation Science Trainee
