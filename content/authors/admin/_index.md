@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Landscape Ecology
@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: PhD Candidate in Ecology
-    institution: Stanford University
+    institution: Utah State University
     year: 2022
   - course: BS in Biology
     institution: Denison University
