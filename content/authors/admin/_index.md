@@ -19,10 +19,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Landscape Ecology
 - Pollinator Ecology
-- #Machine Learning
-- #Geospatial Modeling 
-- #Conservation 
-- #Climate Adaptation
+- Machine Learning
+- Geospatial Modeling 
+- Conservation 
+- Climate Adaptation
 
 education:
   courses:
@@ -40,16 +40,16 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-- #icon: envelope
-  #icon_pack: fas
-  #link: 'mailto: mochristman@gmail.com'
-- #icon: google-scholar
-  #icon_pack: ai
-  #link: https://scholar.google.com/citations?user=ULJUrRcAAAAJ&hl=en
-- #icon: github
-  #icon_pack: fab
-  #link: https://github.com/mochristman
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto: mochristman@gmail.com'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ULJUrRcAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mochristman
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - #icon: cv
@@ -57,16 +57,16 @@ education:
    #link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: ""
 
 # Highlight the author in author lists? (true/false)
-#highlight_name: false
+highlight_name: false
 
 
 ---
 
-#I am an Ecology PhD Candidate in the Biology Department as well as a National Science Foundation Trainee within the Climate Adaptation Science Program at Utah #State University. Broadly, my research interests include ecology, data science, and conservation. 
+I am an Ecology PhD Candidate in the Biology Department as well as a National Science Foundation Trainee within the Climate Adaptation Science Program at Utah State University. Broadly, my research interests include ecology, data science, and conservation. 
 
-#My current research evaluates the impact of anthropogenic disturbances on bumble bee diversity, colony growth, and development both on a state and national scale. #My goal is to produce research that both informs and helps promote positive conservation and management practices. To reach this goal, I integrate landscape #ecology, pollinator ecology, geospatial modeling, and machine learning.
+My current research evaluates the impact of anthropogenic disturbances on bumble bee diversity, colony growth, and development both on a state and national scale. My goal is to produce research that both informs and helps promote positive conservation and management practices. To reach this goal, I integrate landscape ecology, pollinator ecology, geospatial modeling, and machine learning.
 
 
