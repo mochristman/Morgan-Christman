@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD Candidate in Ecology
     institution: Utah State University
-    year: 2017-2022 (Anticipated)
+    year: 2017-22 (Anticipated)
   - course: BS in Biology
     institution: Denison University
     year: 2013-17
