@@ -6,11 +6,11 @@ title: Morgan (Mo) Christman
 superuser: true
 
 # Role/position
-role: PhD Candidate at Utah State University and National Science Foundation Climate Adaptation Science Trainee
+role: Ecology PhD Candidate 
 
 # Organizations/Affiliations
 organizations:
-- name: Utah State University Biology Department
+- name: Utah State University 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
