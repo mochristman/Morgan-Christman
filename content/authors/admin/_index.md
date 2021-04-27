@@ -65,8 +65,6 @@ highlight_name: false
 
 ---
 
-I am an Ecology PhD Candidate in the Biology Department as well as a National Science Foundation Trainee within the Climate Adaptation Science Program at Utah State University. Broadly, my research interests include ecology, data science, and conservation.
-
-My current research evaluates the impact of anthropogenic disturbances on bumble bee diversity, colony growth, and development both on a state and national scale. My goal is to produce research that both informs and helps promote positive conservation and management practices. 
+I am an Ecology PhD Candidate in the Biology Department as well as a National Science Foundation Trainee within the Climate Adaptation Science Program at Utah State University. My current research evaluates the impact of anthropogenic disturbances on bumble bee diversity, colony growth, and development both on a state and national scale. My goal is to produce research that both informs and helps promote positive conservation and management practices. 
 
 
