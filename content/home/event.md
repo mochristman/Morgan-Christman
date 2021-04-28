@@ -1,4 +1,5 @@
 ---
+widget: featured
 title: Example Event
 
 event: Wowchemy Conference
