@@ -25,4 +25,5 @@ hero_media: 'welcome.jpg'
   #label: ''
 ---
 
-I was born and raised in Schwenksville, PA.
+Background:
+- I was born and raised in Schwenksville, PA.
