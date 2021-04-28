@@ -1,5 +1,7 @@
 ---
 widget: featured
+content: 
+  page_type: event
 title: Example Event
 
 event: Wowchemy Conference
