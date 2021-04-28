@@ -3,7 +3,6 @@ widget: featured
 weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
-Title: Background
 
 content:
   # Page type to display. E.g. post, event, or publication.
