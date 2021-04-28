@@ -1,5 +1,6 @@
 ---
-widget: blank
+widget: featured
+view: 2
 weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
