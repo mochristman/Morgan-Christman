@@ -17,18 +17,18 @@ abstract: "I was raised in Schwenksville, Pennsylvania. Most of childhood was sp
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-#date: "2030-06-01T13:00:00Z"
-#date_end: "2030-06-01T15:00:00Z"
-#all_day: false
+date: "2030-06-01T13:00:00Z"
+date_end: "2030-06-01T15:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
-#tags: []
+tags: []
 
 # Is this a featured talk? (true/false)
-#featured: false
+featured: false
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
