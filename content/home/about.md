@@ -10,4 +10,3 @@ weight: 10
 author: 'admin'
 ---
 
-I was born in pa
