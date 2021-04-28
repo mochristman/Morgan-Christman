@@ -1,6 +1,5 @@
 ---
 widget: featured
-headless: true  # This file represents a page section.
 weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -11,7 +10,6 @@ content:
   page_type: event
 
 design:
-  view: 3
   columns: 1
   
 ---
