@@ -1,6 +1,6 @@
 ---
 widget: featured
-view: 2
+view: 1
 weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -17,7 +17,7 @@ design:
     # Use a fun parallax-like fixed background effect on desktop? true/false
     image_parallax: false
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+    text_color_light: false
   
 ---
 
