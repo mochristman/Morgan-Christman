@@ -1,6 +1,7 @@
 ---
 widget: featured
 headless: true  # This file represents a page section.
+weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -14,11 +15,13 @@ content:
 
 design:
   view: 3
-  image: "featured.jpg"
+  
+image:
   placement: 1
-  focal_point: "Right"
+  caption: "Photo by [Geo](https://github.com/gcushen/)"
+  focal_point: "Center"
   preview_only: false
-
+  alt_text: An optional description of the image for screen readers.
 
 ---
 
