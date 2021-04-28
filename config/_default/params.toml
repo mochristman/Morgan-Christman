@@ -1,9 +1,7 @@
 # SITE SETUP
 # Guide: https://wowchemy.com/docs/get-started/
 # Documentation: https://wowchemy.com/docs/
-#
-# This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
-# Each config section after this section is defined by a name in square brackets (e.g. `[search]`).
+
 
 ############################
 ## Theme
@@ -11,8 +9,6 @@
 
 # Choose a theme.
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
-#   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
-#   Browse user installed themes in `data/themes/`
 theme = "ocean"
 
 # Enable users to switch between day and night mode?
@@ -20,8 +16,6 @@ day_night = false
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
-#   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
-#   Browse user installed font sets in `data/fonts/`
 font = "minimal"
 
 # Choose a font size.
