@@ -1,11 +1,11 @@
 ---
 widget: blank
+weight: 20
 
 image:
   placement: 1
-  caption: "Photo by [Geo](https://github.com/gcushen/)"
+  caption: "hero.jpg"
   focal_point: "Right"
   preview_only: false
-  alt_text: An optional description of the image for screen readers.
   
 ---
