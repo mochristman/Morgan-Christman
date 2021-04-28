@@ -7,7 +7,7 @@ weight: 20
 design:
   columns: 1
   background: 
-    image: featured.jpg
+    image: bumbles.jpg
   
 ---
 
