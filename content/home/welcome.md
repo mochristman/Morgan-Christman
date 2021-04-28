@@ -1,12 +1,8 @@
 ---
-widget: featured
+widget: blank
 weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
-
-content:
-  # Page type to display. E.g. post, event, or publication.
-  page_type: event
 
 design:
   columns: 1
