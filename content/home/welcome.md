@@ -14,12 +14,12 @@ design:
   view: 3
   columns: 2
   
-image: "featured.jpg"
-  placement: 1
-  caption: "Photo by [Geo](https://github.com/gcushen/)"
-  focal_point: "Center"
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
   preview_only: false
-  alt_text: An optional description of the image for screen readers.
 
 ---
 
