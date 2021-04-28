@@ -10,6 +10,7 @@ content:
 
 design:
   columns: 1
+  background: "featured.jpg"
   
 ---
 
