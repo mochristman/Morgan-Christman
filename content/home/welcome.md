@@ -11,7 +11,7 @@ content:
 design:
   columns: 1
   background: 
-    image: "featured.jpg"
+    image: featured.jpg
   
 ---
 
