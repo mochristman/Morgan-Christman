@@ -19,11 +19,11 @@ experience:
         Our objective was to link differences in bumble bee (*Bombus*) diversity to landscape composition and climate in agroecosystems in order to understand their co-occurring effects. 
 
         
-  - title: 'Professor'
-    company: 'University X'
-    company_url: ''
-    location: 'California'
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
+  - title: 'Variation in upper thermal tolerance of *Bombus griseocollis* and *B. impatiens* (Hymenoptera: Apidae)'
+    company: 'Utah State University'
+    date_start: '2020-09-01'
+    date_end: '2021-04-01'
+    description: >-
+        Our objective was to compare the upper thermal tolerance of a commercially available, eastern North American bumble bee species, *Bombus impatiens*, to the upper thermal tolerance of a wild and broadly distributed species, *Bombus griseocollis*.
+
 ---
