@@ -11,18 +11,15 @@ header: Research Experience
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with `>-`.
 experience:
-  - title: 'Land-use and climate drive shifts in Bombus assemblage composition'
+  - title: 'Land-use and climate drive shifts in *Bombus* assemblage composition'
     company: 'Utah State University'
-    company_url: ''
-    location: 'Logan, Utah'
     date_start: '2017-06-01'
     date_end: '2021-04-01'
     description: >-
         Objective:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * We linked differences in bumble bee (*Bombus*) diversity to landscape composition and climate in agroecosystems in order to understand their co-occurring effects. 
+
         
   - title: 'Professor'
     company: 'University X'
