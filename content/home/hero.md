@@ -4,8 +4,6 @@ headless: true  # This file represents a page section.
 weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
-Background:
-  I was raised in Schwenksville, Pennsylvania. 
 
 # Hero image (optional). Enter filename of an image in the page folder.
 hero_media: 'welcome.jpg'
@@ -26,3 +24,5 @@ hero_media: 'welcome.jpg'
 #cta_note:
   #label: ''
 ---
+
+I was born and raised in Schwenksville, PA.
