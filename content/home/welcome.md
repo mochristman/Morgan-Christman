@@ -1,13 +1,24 @@
 ---
-widget: hero
+widget: featured
 headless: true  # This file represents a page section.
-weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Background
 
-# Hero image (optional). Enter filename of an image in the page folder.
-hero_media: 'welcome.jpg'
+content:
+  # Page type to display. E.g. post, event, or publication.
+  page_type: post
+  # Choose how much pages you would like to display (0 = all pages)
+  count: 0
+  # Page order. Descending (desc) or ascending (asc) date.
+  order: desc
+
+design:
+  view: 3
+  image: "featured.jpg"
+  placement: 1
+  focal_point: "Right"
+  preview_only: false
+
 
 ---
 
