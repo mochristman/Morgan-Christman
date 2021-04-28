@@ -20,8 +20,8 @@ design:
     image_position: center
     image_size: actual
     text_color_light: true
-  #spacing:
-    #padding: ["20px", "0", "20px", "0"]
+  spacing:
+    padding: ["20px", "50", "20px", "50"]
 advanced:
   css_class: fullscreen
 ---
