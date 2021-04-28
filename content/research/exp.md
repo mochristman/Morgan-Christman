@@ -16,9 +16,7 @@ experience:
     date_start: '2017-06-01'
     date_end: '2021-04-01'
     description: >-
-        Objective:
-        
-        * We linked differences in bumble bee (*Bombus*) diversity to landscape composition and climate in agroecosystems in order to understand their co-occurring effects. 
+        Our objective was to link differences in bumble bee (*Bombus*) diversity to landscape composition and climate in agroecosystems in order to understand their co-occurring effects. 
 
         
   - title: 'Professor'
