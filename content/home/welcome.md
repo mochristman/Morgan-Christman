@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: featured
 view: 4
 weight: 20
 
