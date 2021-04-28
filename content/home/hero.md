@@ -6,7 +6,7 @@ weight: 20
 # ... Put Your Section Options Here (title etc.) ...
 
 # Hero image (optional). Enter filename of an image in the page folder.
-hero_media: ''
+hero_media: 'hero.jpg'
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `cta`.
