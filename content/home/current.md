@@ -2,7 +2,7 @@
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-view: 3
+
 # Activate this widget? true/false
 active: true
 
@@ -11,6 +11,8 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 30
+
+Title: "             "
 
 design:
   columns: "2"
