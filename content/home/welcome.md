@@ -24,9 +24,7 @@ design:
 ---
 
 
-Most of childhood was spent at gymnastics and diving practice, collecting grasshoppers and butterflies, and playing in the woods in Schwenksville, PA. 
-
-For college, I moved to Granville, Ohio, the adorable town on the hill, where I worked as a greenhouse assistant and animal caretaker for the Biology Department. 
+Most of childhood was spent at gymnastics and diving practice, collecting grasshoppers and butterflies, and playing in the woods in Schwenksville, PA. For college, I moved to Granville, Ohio, the adorable town on the hill, where I worked as a greenhouse assistant and animal caretaker for the Biology Department. 
 
 Currently I am living in Logan, Utah while attending Utah State University. In my free time, I like traveling to national parks as well as hiking and going to the dog park with my mischevious pitbull, Carlton. I also spend a great deal of time at the boxing gym training and coaching. 
 
