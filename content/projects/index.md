@@ -1,6 +1,6 @@
 ---
 title: Publications
-view: 4
+view: 2
 weight: 10
 
 header:
