@@ -8,6 +8,7 @@ authors:
 - Ricardo A. Ramirez
 date: "2021-04-26T00:00:00Z"
 doi: ""
+view: 2
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
