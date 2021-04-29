@@ -24,6 +24,4 @@ design:
 ---
 
 
-Most of my childhood was spent at gymnastics and diving practice, collecting grasshoppers and butterflies, and playing in the woods in Schwenksville, PA.
-
-For my undergraduate, I attended Denison University - the college on the hill, where I worked as a greenhouse assistant and animal caretaker for the Biology Department. During this time, I expanded my love of nature by participating in research projects on the "Comparative study of insect diversity at three successional landscapes" in Ohio and the "Influence of ecotourism on Allen’s Cay rock iguanas" in the Bahamas. 
+Most of my childhood was spent at gymnastics and diving practice, collecting grasshoppers and butterflies, and playing in the woods in Schwenksville, PA. For my undergraduate, I attended Denison University - the college on the hill, where I worked as a greenhouse assistant and animal caretaker for the Biology Department. During this time, I expanded my love of nature by participating in research projects on the "Comparative study of insect diversity at three successional landscapes" in Ohio and the "Influence of ecotourism on Allen’s Cay rock iguanas" in the Bahamas. 
