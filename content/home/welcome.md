@@ -24,9 +24,5 @@ design:
 ---
 
 
-I was raised in Schwenksville, Pennsylvania. Most of childhood was spent at gymnastics and diving practice, collecting grasshoppers and butterflies, and playing in the woods. 
-
-For college, I moved to Granville, Ohio, the adorable town on the hill, where I worked as a greenhouse assistant and animal caretaker for the Biology Department. While at Denison, I expanded my love of nature by participating in research projects on the "Comparative study of insect diversity at three successional landscapes" and the "Influence of ecotourism on Allen’s Cay rock iguanas". 
-
-I am currently living in Logan, Utah while attending Utah State University. In my free time, I like traveling to national parks in the surrounding area as well as hiking and going to the dog park with my mischevious pitbull, Carlton. I also spend a great deal of time at the boxing gym training and coaching. 
+I was raised in Schwenksville, Pennsylvania. Most of childhood was spent at gymnastics and diving practice, collecting grasshoppers and butterflies, and playing in the woods. For college, I moved to Granville, Ohio, the adorable town on the hill, where I worked as a greenhouse assistant and animal caretaker for the Biology Department. While at Denison, I expanded my love of nature by participating in research projects on the "Comparative study of insect diversity at three successional landscapes" and the "Influence of ecotourism on Allen’s Cay rock iguanas". I am currently living in Logan, Utah while attending Utah State University. In my free time, I like traveling to national parks in the surrounding area as well as hiking and going to the dog park with my mischevious pitbull, Carlton. I also spend a great deal of time at the boxing gym training and coaching. 
 
