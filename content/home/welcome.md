@@ -6,6 +6,8 @@ weight: 20
 Title: About Me
 design:
   columns: 2
+  background:
+    image: featured.pdf
   
 ---
 
