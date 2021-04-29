@@ -1,8 +1,4 @@
 ---
-widget: featured
-headless: true  # This file represents a page section.
-
-
 title: "Land-use and climate drive shifts in Bombus assemblage composition"
 authors:
 - Morgan E. Christman
