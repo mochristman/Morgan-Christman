@@ -13,7 +13,7 @@ headless: true
 weight: 30
 
 design:
-  columns: "2"
+  columns: "1"
 
 ---
 
