@@ -8,7 +8,7 @@ authors:
 - Steven Price
 - Ricardo A. Ramirez
 - Terry Griswold
-- Amanda J Redford
+- Amanda J. Redford
 date: "2018-08-26T00:00:00Z"
 doi: ""
 
