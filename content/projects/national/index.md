@@ -1,12 +1,8 @@
 ---
-title: "Incidental captures of Bombus species in traps- a national survey"
+title: "An example preprint / working paper"
 authors:
-- Morgan E. Christman
-- Lori R. Spears
-- James P. Strange
-- Emily K. Burchfield
-- Ricardo A. Ramirez
-date: "2021-04-07T00:00:00Z"
+- admin
+date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,36 +18,48 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Federal and state agencies deploy thousands of traps in agricultural fields throughout the U.S. to conduct annual field surveys for early detection of non-native Lepidopterans. It is well known that *Bombus* are commonly collected as bycatch within these insect traps; however, no study has assessed regional variation in bycatch composition. Therefore, our objectives were to characterize the nature and scope of *Bombus* bycatch throughout the U.S. to better understand regional effects of traps on pollinator communities and evaluate differences in landscape composition and configuration to determine the effect of agricultural land management practices on pollinator diversity. Bycatch was collected from insect traps within agricultural fields throughout Florida, Indiana, Kansas, Kentucky, Maryland, South Carolina, Utah, Virginia, and West Virginia from 2018 to 2020. *Bombus fervidus, B. bimaculatus, B. impatiens, B. pensylvanicus,* and *B. huntii* were the five most abundant species within traps, comprising 86% of total captures. Species richness was consistent with published data suggesting that *Bombus* captures are representative of the expected community. However, some of the commonly trapped species (*B. fervidus, B. pensylvanicus,* and *B. auricomus*) are historically uncommon throughout their ranges.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Bumble Bees
-- Bycatch 
-- Landscape Composition 
-- Landscape Configuration 
-- Agroecosystems
-
+- Source Themes
 featured: false
 
 links:
-- name: 
-  url: ''
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
+- name: Custom Link
+  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: '#'
+url_dataset: '#'
+url_poster: '#'
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
 ---
 
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
