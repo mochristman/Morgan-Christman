@@ -36,9 +36,9 @@ url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'http://idtools.org/id/bees/exotic'
 url_slides: ''
-url_source: 'http://idtools.org/id/bees/exotic'
+url_source: ''
 url_video: ''
 
 # Featured image
