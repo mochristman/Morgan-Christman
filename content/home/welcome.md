@@ -5,7 +5,6 @@ weight: 20
 # ... Put Your Section Options Here (title etc.) ...
 Title: "                        "
 design:
-design:
   column: 2
   background:
     # Name of image in `assets/media/`.
