@@ -50,4 +50,3 @@ image:
 
 ---
 
-Data and code supporting these findings can be are openly available on [Dryad](#). 
