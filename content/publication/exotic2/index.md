@@ -32,14 +32,14 @@ abstract: Bees play a critical role in both agricultural and natural ecosystems,
 
 # links:
  #- name: "Exotic Bee ID"
-  # url: "http://idtools.org/id/bees/exotic"
+  # url: ""
 url_pdf: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'http://idtools.org/id/bees/exotic'
 url_video: ''
 
 # Featured image
