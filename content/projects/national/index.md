@@ -1,13 +1,12 @@
 ---
-title: "Land-use and climate drive shifts in Bombus assemblage composition"
+title: "Incidental captures of Bombus species in traps- a national survey"
 authors:
 - Morgan E. Christman
 - Lori R. Spears
 - James P. Strange
-- William D. Pearse
 - Emily K. Burchfield
 - Ricardo A. Ramirez
-date: "2021-04-26T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,21 +16,22 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Landscape Ecology"
-publication_short: "Landscape Ecology. *Under Review*"
+#publication: ""
+#publication_short: "Landscape Ecology. *Under Review*"
 
-abstract: Pollinators play pivotal roles in maintaining agricultural and natural plant communities, yet some bee populations are declining. The conversion of agricultural and semi-natural lands for urban use has reduced bee abundance and diversity. Meanwhile, climate change has affected bee distributions and led to disruption of plant-pollinator synchrony, impacting ecosystem processes. However, how these factors co-occur to influence bee assemblages is poorly understood. We linked differences in bumble bee (*Bombus*) diversity to landscape composition and climate in agroecosystems in order to understand their co-occurring effects. We evaluated *Bombus* assemblages in relation to the proportion of agricultural, semi-natural, and urban landscapes and interannual variation in temperature, precipitation, and relative humidity in Utah agroecosystems from 2014 to 2018. *Bombus* species richness and diversity was highest in agricultural landscapes characterized by low temperatures and high relative humidity during the growing season, and lowest in urban areas with high temperatures and low relative humidity. Ongoing and future urbanization and climate change may therefore lead to reduced *Bombus* diversity in Utah. Although some historically uncommon species, such as *B. pensylvanicus*, may thrive under future land-use and climate scenarios, others (e.g., *B. sylvicola, B. californicus*, and *B. occidentalis*) are at increased risk of extirpation due to loss of suitable habitat. Continually monitoring *Bombus* populations will help document shifts in assemblages and potential consequential impacts to ecosystem services. These findings emphasize that management strategies moving forward should consider the effect of co-occurring factors as opposed to single factors in order to foster future resiliency of *Bombus* populations. 
+abstract: Federal and state agencies deploy thousands of traps in agricultural fields throughout the U.S. to conduct annual field surveys for early detection of non-native Lepidopterans. It is well known that *Bombus* are commonly collected as bycatch within these insect traps; however, no study has assessed regional variation in bycatch composition. Therefore, our objectives were to characterize the nature and scope of *Bombus* bycatch throughout the U.S. to better understand regional effects of traps on pollinator communities and evaluate differences in landscape composition and configuration to determine the effect of agricultural land management practices on pollinator diversity. Bycatch was collected from insect traps within agricultural fields throughout Florida, Indiana, Kansas, Kentucky, Maryland, South Carolina, Utah, Virginia, and West Virginia from 2018 to 2020. *Bombus fervidus, B. bimaculatus, B. impatiens, B. pensylvanicus,* and *B. huntii* were the five most abundant species within traps, comprising 86% of total captures. Species richness was consistent with published data suggesting that *Bombus* captures are representative of the expected community. However, some of the commonly trapped species (*B. fervidus, B. pensylvanicus,* and *B. auricomus*) are historically uncommon throughout their ranges.
+
 
 
 # links:
 # - name: ""
 #   url: ""
 url_pdf: ""
-url_code: 'https://zenodo.org/record/4701633#.YIJOIH1ueWB'
-url_dataset: 'https://zenodo.org/record/4701633#.YIJOIH1ueWB'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -59,5 +59,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides:
 ---
-
-Data and code supporting these findings can be are openly available on [Zenodo](https://zenodo.org/record/4701633#.YIJOIH1ueWB). 
