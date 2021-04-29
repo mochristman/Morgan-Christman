@@ -21,9 +21,7 @@ publication_types: ["4"]
 publication: "Utah State University Extension"
 publication_short: "Utah State University Extension"
 
-abstract: The Utah Wellbeing Survey project is designed to assess the wellbeing and local perspectives of city residents, and provide information to city leaders to inform their general planning processes. In early 2020, 18 cities participated in the Utah Wellbeing Survey.
-
-The 2020 survey was conducted online between late January and mid-March, with each city’s survey open for approximately 3 weeks. Therefore, these data describe wellbeing perspectives just prior to the COVID-19 pandemic. Cities advertised the survey via social media, newsletters, websites, and locally distributed information. All residents in the participating cities age 18 and older were encouraged to take the online Qualtrics survey.
+abstract: 
 
 
 # links:
