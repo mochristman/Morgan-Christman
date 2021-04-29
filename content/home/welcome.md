@@ -3,7 +3,7 @@ widget: blank
 weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
-Title: "                        "
+Title: "                           "
 design:
   column: 2
   background:
