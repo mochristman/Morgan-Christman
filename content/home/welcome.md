@@ -7,8 +7,13 @@ Title: About Me
 design:
   columns: 2
   background:
-    image: featured.pdf
-  
+     image: featured.pdf
+     image_darken: 0.6
+     image_size: contain
+     image_position: left
+     image_parallax: false
+     text_color_light: false
+       
 ---
 
 
