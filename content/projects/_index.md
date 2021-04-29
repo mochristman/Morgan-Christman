@@ -1,6 +1,6 @@
 ---
 # Files in this folder represent a Widget Page
-type: widget_page
+type: featured
 title: Current Projects
 view: 4
 weight: 10
