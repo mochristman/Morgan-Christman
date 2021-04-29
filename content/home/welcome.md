@@ -4,20 +4,9 @@ view: 4
 weight: 20
 
 # ... Put Your Section Options Here (title etc.) ...
-
+Title: About Me
 design:
-  columns: 2
-  background:
-    image: bumbles.jpg
-    image_darken: 0.6
-    #  Options are `cover` (default), `contain`, or `actual` size.
-    image_size: contain
-    # Options include `left`, `center` (default), or `right`.
-    image_position: right
-    # Use a fun parallax-like fixed background effect on desktop? true/false
-    image_parallax: false
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: false
+  columns: 1
   
 ---
 
