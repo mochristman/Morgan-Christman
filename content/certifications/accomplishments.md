@@ -23,6 +23,7 @@ item:
     date_start: '2017-08-01'
     date_end: '2021-05-06'
     description: 'This certification focuses on applying industry standard GIS and remote sensing tools to natural resource issues.'
+    image: WFA.pdf
   - organization: Desert Mountain Medicine
     organization_url: 'https://desertmountainmedicine.com/'
     title: Wilderness First Aid
