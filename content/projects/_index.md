@@ -1,5 +1,5 @@
 ---
-title: Current Projects
+title: Publications
 view: 4
 weight: 10
 
