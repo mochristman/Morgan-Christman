@@ -2,7 +2,7 @@
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-view: 2
+view: 3
 # Activate this widget? true/false
 active: true
 
@@ -13,7 +13,7 @@ headless: true
 weight: 30
 
 design:
-  columns: "1"
+  columns: "2"
 
 ---
 
