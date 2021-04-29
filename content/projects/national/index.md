@@ -26,7 +26,11 @@ abstract: Federal and state agencies deploy thousands of traps in agricultural f
 
 
 tags:
-- Source Themes
+- Bumble Bees
+- Bycatch 
+- Landscape Composition 
+- Landscape Configuration 
+- Agroecosystems
 
 featured: false
 
