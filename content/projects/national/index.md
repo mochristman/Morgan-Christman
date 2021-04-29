@@ -6,7 +6,7 @@ authors:
 - James P. Strange
 - Emily K. Burchfield
 - Ricardo A. Ramirez
-date: ""
+date: "2021-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,17 +19,21 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-#publication: ""
-#publication_short: "Landscape Ecology. *Under Review*"
+publication: ""
+publication_short: ""
 
 abstract: Federal and state agencies deploy thousands of traps in agricultural fields throughout the U.S. to conduct annual field surveys for early detection of non-native Lepidopterans. It is well known that *Bombus* are commonly collected as bycatch within these insect traps; however, no study has assessed regional variation in bycatch composition. Therefore, our objectives were to characterize the nature and scope of *Bombus* bycatch throughout the U.S. to better understand regional effects of traps on pollinator communities and evaluate differences in landscape composition and configuration to determine the effect of agricultural land management practices on pollinator diversity. Bycatch was collected from insect traps within agricultural fields throughout Florida, Indiana, Kansas, Kentucky, Maryland, South Carolina, Utah, Virginia, and West Virginia from 2018 to 2020. *Bombus fervidus, B. bimaculatus, B. impatiens, B. pensylvanicus,* and *B. huntii* were the five most abundant species within traps, comprising 86% of total captures. Species richness was consistent with published data suggesting that *Bombus* captures are representative of the expected community. However, some of the commonly trapped species (*B. fervidus, B. pensylvanicus,* and *B. auricomus*) are historically uncommon throughout their ranges.
 
 
+tags:
+- Source Themes
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: ""
+featured: false
+
+links:
+- name: Custom Link
+  url: ''
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -41,21 +45,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-#projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-#slides:
 ---
+
