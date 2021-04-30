@@ -6,6 +6,17 @@ weight: 20
 # ... Put Your Section Options Here (title etc.) ...
 Title: "    "
 
+design:
+  background:
+    image: bumbles.jpg
+    image_darken: 0
+    image_parallax: false
+    image_position: center 
+    image_size: cover
+    text_color_light: true
+advanced:
+   css_class: fullscreen
+
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
