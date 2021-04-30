@@ -16,18 +16,18 @@ content:
   # Page order. Descending (desc) or ascending (asc) date.
   order: desc
   # Optionally filter posts by a taxonomy term.
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
-    exclude_featured: false
-    exclude_past: false
-    exclude_future: false
 design:
   view: 3
   background:
     image: bumbles.jpg
-    
+    image_darken: 0
+    image_parallax: false
+    image_position: center 
+    image_size: cover
+    text_color_light: true
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
     
 ---
 Our objectives were to characterize the nature and scope of Bombus bycatch throughout the U.S. to better understand regional effects of traps on pollinator communities and evaluate differences in landscape composition and configuration to determine the effect of agricultural land management practices on pollinator diversity.
