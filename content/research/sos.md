@@ -9,7 +9,7 @@ design:
   columns: 2
   spacing:
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding: ["40px", "0", "40px", "0"]
+  padding: ["40px", "20px", "40px", "20px"]
     
 ---
 **Incidental captures of Bombus species in traps - a national survey**
