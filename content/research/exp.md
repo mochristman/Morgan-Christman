@@ -4,7 +4,6 @@ weight: 10
 #headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-Title: Current Projects
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
