@@ -3,7 +3,7 @@ widget: experience
 #headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-header: Research Experience
+Title: Current Projects
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
@@ -12,21 +12,7 @@ header: Research Experience
 #   Begin/end multi-line descriptions with `>-`.
 
 experience:
-  - title: 'Land-use and climate drive shifts in *Bombus* assemblage composition'
-    company: 'Biology Department and Ecology Center, Utah State University'
-    date_start: '2017-06-01'
-    date_end: '2021-04-01'
-    description: >-
-        Our objective was to link differences in bumble bee (*Bombus*) diversity to landscape composition and climate in agroecosystems in order to understand their co-occurring effects. 
 
-        
-  - title: 'Variation in upper thermal tolerance of *Bombus griseocollis* and *B. impatiens* (Hymenoptera: Apidae)'
-    company: 'Biology Department and Ecology Center, Utah State University'
-    date_start: '2020-09-01'
-    date_end: '2021-04-01'
-    description: >-
-        Our objective was to compare the upper thermal tolerance of a commercially available, eastern North American bumble bee species, *Bombus impatiens*, to the upper thermal tolerance of a wild and broadly distributed species, *Bombus griseocollis*.
-      
   - title: 'Incidental captures of *Bombus* species in traps: a national survey'
     company: 'Biology Department and Ecology Center, Utah State University'
     date_start: '2019-06-01'
