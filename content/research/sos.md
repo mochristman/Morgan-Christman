@@ -4,7 +4,7 @@ weight: 30
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-Title: " "
+Title: "Incidental captures of Bombus species in traps - a national survey"
 subtitle: Incidental captures of Bombus species in traps - a national survey
 
 design:
