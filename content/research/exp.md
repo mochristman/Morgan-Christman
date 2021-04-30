@@ -1,6 +1,6 @@
 ---
 widget: experience
-weight: 10
+weight: 20
 #headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
