@@ -4,7 +4,7 @@ weight: 30
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-Subtitle: Incidental captures of Bombus species in traps: a national survey
+Subtitle: Incidental captures of Bombus species in traps - a national survey
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: post
