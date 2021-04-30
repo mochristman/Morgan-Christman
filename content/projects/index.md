@@ -1,5 +1,4 @@
 ---
-type: widget_page
 title: Current Projects
 
 # View.
