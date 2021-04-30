@@ -4,7 +4,7 @@ weight: 30
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-Title: 
+Title: ""
 ## Incidental captures of Bombus species in traps - a national survey
 content:
   # Page type to display. E.g. post, event, or publication.
@@ -17,7 +17,7 @@ content:
   order: desc
   # Optionally filter posts by a taxonomy term.
 design:
-  view: 3
+  columns: 2
   background:
     image: bumbles.jpg
     image_darken: 0
