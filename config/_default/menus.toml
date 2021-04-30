@@ -27,8 +27,4 @@
   name = "Contact"
   url = "contact"
   weight = 50
-  
-[[main]]
-  name = "Current Projects"
-  url = "projects"
-  weight = 60
+
