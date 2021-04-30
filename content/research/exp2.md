@@ -6,7 +6,7 @@ weight: 40
 # ... Put Your Section Options Here (title etc.) ...
 design:
   background:
-    image: goshawks.jpg
+    image: bumbles.jpg
     image_darken: 0
     image_parallax: false
     image_position: center 
