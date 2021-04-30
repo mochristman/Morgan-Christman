@@ -4,6 +4,16 @@ weight: 20
 #headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
+design:
+  background:
+    image: bumbles.jpg
+    image_darken: 0
+    image_parallax: false
+    image_position: center 
+    image_size: cover
+    text_color_light: false
+advanced:
+   css_class: fullscreen
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
