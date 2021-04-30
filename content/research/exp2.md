@@ -10,7 +10,7 @@ design:
     image_darken: 0
     image_parallax: false
     image_position: center 
-    image_size: cover
+    image_size: contain
     text_color_light: false
 advanced:
    css_class: fullscreen
