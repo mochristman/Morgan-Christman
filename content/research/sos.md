@@ -1,6 +1,6 @@
 ---
 widget: pages
-weight: 20
+weight: 80
 headless: true  # This file represents a page section.
                    
 ---
