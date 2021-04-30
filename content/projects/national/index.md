@@ -1,6 +1,6 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: Incidental captures of Bombus species in traps: a national survey
+weight: 20
 
 design:
   column: 2
@@ -22,13 +22,12 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Our objectives were to characterize the nature and scope of Bombus bycatch throughout the U.S. to better understand regional effects of traps on pollinator communities and evaluate differences in landscape composition and configuration to determine the effect of agricultural land management practices on pollinator diversity.
 
 
 <!--more-->
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+Federal and state agencies deploy thousands of traps in agricultural fields throughout the U.S. to conduct annual field surveys for early detection of non-native Lepidopterans. It is well known that Bombus are commonly collected as bycatch within these insect traps; however, no study has assessed regional variation in bycatch composition. Therefore, our objectives were to characterize the nature and scope of Bombus bycatch throughout the U.S. to better understand regional effects of traps on pollinator communities and evaluate differences in landscape composition and configuration to determine the effect of agricultural land management practices on pollinator diversity. Bycatch was collected from insect traps within agricultural fields throughout Florida, Indiana, Kansas, Kentucky, Maryland, South Carolina, Utah, Virginia, and West Virginia from 2018 to 2020. Bombus fervidus, B. bimaculatus, B. impatiens, B. pensylvanicus, and B. huntii were the five most abundant species within traps, comprising 86% of total captures. Species richness was consistent with published data suggesting that Bombus captures are representative of the expected community. However, some of the commonly trapped species (B. fervidus, B. pensylvanicus, and B. auricomus) are historically uncommon throughout their ranges
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
 
 
