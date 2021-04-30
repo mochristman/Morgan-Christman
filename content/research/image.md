@@ -13,13 +13,12 @@ headless: true
 weight: 30
 
 design:
-  columns: "1"
   background:
     image: bumbles.jpg
     image_darken: 0
     image_parallax: false
     image_position: center 
-    image_size: actual
+    image_size: contain
     text_color_light: true
   #spacing:
     #padding: ["0", "20px", "0", "20px"]
