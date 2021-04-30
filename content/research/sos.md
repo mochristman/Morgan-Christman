@@ -4,7 +4,7 @@ weight: 30
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-Title: Please Work
+Subtitle: Incidental captures of Bombus species in traps: a national survey
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: post
@@ -23,11 +23,9 @@ content:
     exclude_past: false
     exclude_future: false
 design:
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)  
   view: 3
+  background:
+    image: bumbles.jpg
+    
 ---
-This is where the abstract will go. 
+Our objectives were to characterize the nature and scope of Bombus bycatch throughout the U.S. to better understand regional effects of traps on pollinator communities and evaluate differences in landscape composition and configuration to determine the effect of agricultural land management practices on pollinator diversity.
