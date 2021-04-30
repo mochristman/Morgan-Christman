@@ -5,10 +5,6 @@ widget: experience
 # ... Put Your Section Options Here (title etc.) ...
 Title: Current Projects
 
-design:
-  background:
-    image: bumble.jpg
-
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
