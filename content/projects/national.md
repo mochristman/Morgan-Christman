@@ -3,7 +3,7 @@ widget: featured
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-
+Title: Current Projects
 content:
   # Page type to display. E.g. post, event, or publication.
   page_type: publication
@@ -24,3 +24,4 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+Please Work. 
