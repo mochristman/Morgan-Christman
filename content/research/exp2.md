@@ -4,8 +4,6 @@ weight: 20
 #headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-Title: "    "
-
 design:
   background:
     image: bumbles.jpg
@@ -13,7 +11,7 @@ design:
     image_parallax: false
     image_position: center 
     image_size: cover
-    text_color_light: true
+    text_color_light: false
 advanced:
    css_class: fullscreen
 
