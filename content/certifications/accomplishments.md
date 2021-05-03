@@ -3,7 +3,6 @@ widget: accomplishments
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-Title: Certifications
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
