@@ -1,5 +1,4 @@
 ---
-title: Publications
 view: 4
 weight: 10
 
