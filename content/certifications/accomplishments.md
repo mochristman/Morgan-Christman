@@ -20,7 +20,7 @@ item:
     url: ''
     certificate_url: ''
     date_start: '2017-08-01'
-    date_end: '2021-05-06'
+    date_end: ''
     description: 'This certification focuses on applying industry standard GIS and remote sensing tools to natural resource issues.'
   - organization: Desert Mountain Medicine
     organization_url: 'https://desertmountainmedicine.com/'
