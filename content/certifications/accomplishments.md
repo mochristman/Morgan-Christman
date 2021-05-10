@@ -9,7 +9,7 @@ headless: true  # This file represents a page section.
 date_format: Jan 2006
 
 content:
-  order: asc
+  order: desc
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -23,7 +23,7 @@ item:
     url: ''
     certificate_url: ''
     date_start: '2017-08-01'
-    date_end: ''
+    date_end: '2021-05-07'
     description: 'This certification focuses on applying industry standard GIS and remote sensing tools to natural resource issues.'
   - organization: Desert Mountain Medicine
     organization_url: 'https://desertmountainmedicine.com/'
