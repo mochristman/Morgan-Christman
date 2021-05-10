@@ -8,9 +8,6 @@ headless: true  # This file represents a page section.
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-content:
-  order: desc
-
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
