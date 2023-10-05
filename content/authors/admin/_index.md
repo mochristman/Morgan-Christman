@@ -10,7 +10,7 @@ role: Ecology PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Utah State University 
+- name: The Ohio State University 
   url: ""
 
 interests:
@@ -23,9 +23,9 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate in Ecology
+  - course: PhD in Ecology
     institution: Utah State University
-    year: 2022 (Anticipated)
+    year: 2022 
   - course: BS in Biology
     institution: Denison University
     year: 2017
@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto: mochristman@gmail.com'
+  link: 'mailto: christman.181@osu.edu'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ULJUrRcAAAAJ&hl=en
@@ -62,6 +62,6 @@ highlight_name: false
 
 ---
 
-I am an Ecology PhD Candidate in the Biology Department as well as a National Science Foundation Trainee within the Climate Adaptation Science Program at Utah State University. Broadly, I am interested in data-driven projects that integrate ecology, modeling, and geospatial analysis.  
+I am a Postdoctoral Scholar in the Department of Entomology at The Ohio State University and an Entomological Society of America Science Policy Fellow. I received my PhD in Ecology at Utah State University where I was also a National Science Foundation Trainee within the Climate Adaptation Science Program. 
 
-My current research evaluates the impact of anthropogenic disturbances on bumble bee diversity, colony growth, and development both on a state and national scale. My goal is to produce research that both informs and helps promote positive conservation and management practices. 
+My current research develops successful captive rearing techniques for bumble bees, and assesses the impact of climate change, habitat quality, and land management practices on bumble bees in agroecosystems to inform positive conservation and management practices. 
